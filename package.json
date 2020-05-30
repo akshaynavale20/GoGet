@@ -16,12 +16,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Microsoft/vscode-wordcount.git"
+    "url": "https://github.com/akshaynavale20/GoGet.git"
   },
   "activationEvents": [
     "onCommand:GoGet.helloWorld",
     "*"
   ],
+  "homepage": "https://github.com/akshaynavale20/GoGet/blob/master/README.md",
   "main": "./extension.js",
   "contributes": {
     "commands": [
@@ -37,7 +38,7 @@
     "test": "node ./test/runTest.js"
   },
   "devDependencies": {
-    "@types/vscode": "^1.45.0",
+    "@types/vscode": "^0.10.5",
     "@types/glob": "^7.1.1",
     "@types/mocha": "^7.0.2",
     "@types/node": "^13.11.0",
