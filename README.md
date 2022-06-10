@@ -1,5 +1,8 @@
 # GoGet README
 
+
+** This repository is no longer maintained **
+
 ![logo](/images/goget_logo.png)
 
 > GoGet : A Extention for go devolopers to make life easy, auto download and auto sync the repos
