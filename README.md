@@ -1,7 +1,7 @@
 # GoGet README
 
 
-**** This repository is no longer maintained ****
+**** This repository is no longer maintained as go.mod is introduced in GO ****
 
 ![logo](/images/goget_logo.png)
 
@@ -14,7 +14,7 @@
 
 ![how to example](/images/animation.gif)
 
-> Tip: This extention is still in devolopement mode. Works only on Windows , Coming Soon for Linux and MacOS
+> Tip: This extention is still in development mode. Works only on Windows , (Coming Soon for Linux and MacOS)
 
 ## Requirements
 
